@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "小猫咪",
-      "name": "小猫咪",
+      "name": "专属多",
       "type": 1,
       "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
       "searchable": "1",
