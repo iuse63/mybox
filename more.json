@@ -1,12 +1,16 @@
 {
   "urls": [
     {
-      "name": "专属线路",
+      "name": "专属精简",
       "url": "https://raw.kkgithub.com/iuse63/my/main/my.json"
     },
     {
-      "name": "专属多路",
+      "name": "专属线路",
       "url": " https://raw.kkgithub.com/iuse63/my/main/xiaomao.json"
+    },
+    {
+      "name": "影视资源",
+      "url": "https://raw.kkgithub.com/iuse63/my/main/yingshimao.json"
     },
    {
       "name": "这暴脾气",
