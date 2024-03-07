@@ -1,5 +1,14 @@
 {
   "sites": [
+   {
+      "key": "豆豆",
+      "name": "豆瓣搜索",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
     {
       "key": "小猫咪",
       "name": "专属精简",
