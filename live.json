@@ -1,1 +1,14 @@
-
+{
+  "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "channels",
+          "urls": [
+            "proxy://do=live&type=txt&ext=./live.txt"
+          ]
+        }
+      ]
+    }
+  ],
