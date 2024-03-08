@@ -137,7 +137,7 @@
       "filterable": "0"
     },
   ],
- "lives": [
+//"lives": [
     {
       "group": "redirect",
       "channels": [
@@ -150,6 +150,16 @@
       ]
     }
    ],
+    "lives": [
+    {
+      "name": "IPv4",
+      "type": 0,
+      "url": "./live.txt",
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
   "parses": [
     {
       "name": "解析聚合",
