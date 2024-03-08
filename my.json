@@ -1,7 +1,7 @@
 {
   "spider": "./fan.txt;md5;82a31f7dab4c0eb89a46584f3934d810",
   "sites": [
-   {
+     {
       "key": "豆豆",
       "name": "豆瓣搜索",
       "type": 3,
@@ -12,7 +12,7 @@
     },
     {
       "key": "小猫咪",
-      "name": "专属精简",
+      "name": "专属多路",
       "type": 1,
       "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
       "searchable": "1",
@@ -28,11 +28,29 @@
       "quickSearch": "1",
       "filterable": "0"
     },
-   {
+    {
+      "key": "人人影视",
+      "name": "人人影视",
+      "type": 1,
+      "api": "https://www.rrvipw.com/api.php/provide/vod/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
       "key": "速博资源",
       "name": "速博资源",
       "type": 1,
       "api": "https://subocaiji.com/api.php/provide/vod/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "虎牙资源",
+      "name": "虎牙资源",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
       "searchable": "1",
       "quickSearch": "1",
       "filterable": "0"
@@ -55,7 +73,16 @@
       "quickSearch": "1",
       "filterable": "0"
     },
-   {
+    {
+      "key": "42资源",
+      "name": "42资源",
+      "type": 1,
+      "api": "https://www.42.la/api.php/provide/vod/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
       "key": "红牛资源1",
       "name": "红牛资源1",
       "type": 1,
@@ -91,7 +118,25 @@
       "quickSearch": "1",
       "filterable": "0"
     },
-  {
+    {
+      "key": "💳789盘",
+      "name": "💳789盘",
+      "type": 1,
+      "api": "https://www.rrvipw.com/api.php/provide/vod/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "🌀飘零影院",
+      "name": "🌀飘零影院",
+      "type": 1,
+      "api": "https://p2100.net/api.php/provide/vod/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
       "key": "🤖量子资源",
       "name": "🤖量子资源",
       "type": 1,
@@ -127,7 +172,133 @@
       "quickSearch": "1",
       "filterable": "0"
     },
-   {
+    {
+      "key": "🤴明帝影视",
+      "name": "🤴明帝影视",
+      "type": 1,
+      "api": "https://ys.md214.cn/api.php/provide/vod/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "🌶U酷资源",
+      "name": "🌶U酷资源",
+      "type": 1,
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "🌤天空资源",
+      "name": "🌤天空资源",
+      "type": 1,
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "🌟影图",
+      "name": "🌟影图",
+      "type": 1,
+      "api": "https://cj.vodimg.top/api.php/provide/vod/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "🌸樱花资源",
+      "name": "🌸樱花资源",
+      "type": 1,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "🥪步步高资源",
+      "name": "🥪步步高资源",
+      "type": 1,
+      "api": "https://api.yparse.com/api/json",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "❄飞速资源",
+      "name": "❄飞速资源",
+      "type": 1,
+      "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "789盘",
+      "name": "789盘",
+      "type": 0,
+      "api": "https://www.rrvipw.com/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "光速资源",
+      "name": "光速资源",
+      "type": 0,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "天翼资源",
+      "name": "天翼资源",
+      "type": 1,
+      "api": "https://www.911ysw.top/tianyi.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "金鹰资源",
+      "name": "金鹰资源",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/at/xml/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "百度资源1",
+      "name": "百度资源1",
+      "type": 0,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "百度资源",
+      "name": "百度资源",
+      "type": 0,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/at/xml/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "ikun资源",
+      "name": "ikun资源",
+      "type": 0,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
       "key": "快车资源",
       "name": "快车资源",
       "type": 0,
@@ -136,8 +307,269 @@
       "quickSearch": "1",
       "filterable": "0"
     },
+    {
+      "key": "影图",
+      "name": "影图",
+      "type": 0,
+      "api": "https://cj.vodimg.top/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "U酷资源",
+      "name": "U酷资源",
+      "type": 0,
+      "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "天空资源",
+      "name": "天空资源",
+      "type": 0,
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "樱花资源",
+      "name": "樱花资源",
+      "type": 0,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "映迷",
+      "name": "映迷",
+      "type": 0,
+      "api": "https://www.inmi.app/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "39影视",
+      "name": "39影视",
+      "type": 0,
+      "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "飘零影院",
+      "name": "飘零影院",
+      "type": 0,
+      "api": "https://p2100.net/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "飞速资源1",
+      "name": "飞速资源1",
+      "type": 0,
+      "api": "https://www.feisuzy.com/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "飞速资源2",
+      "name": "飞速资源2",
+      "type": 0,
+      "api": "https://www.feisuzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "飞速资源3",
+      "name": "飞速资源3",
+      "type": 0,
+      "api": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "闪电资源",
+      "name": "闪电资源",
+      "type": 0,
+      "api": "http://sdzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "量子资源",
+      "name": "量子资源",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "看看资源",
+      "name": "看看资源",
+      "type": 0,
+      "api": "https://zy.hikan.xyz/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "明帝",
+      "name": "明帝",
+      "type": 0,
+      "api": "http://cj.md214.cn/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "八戒资源",
+      "name": "八戒资源",
+      "type": 1,
+      "api": "http://cj.bajiecaiji.com/inc/api.php",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "鸡婆",
+      "name": "鸡婆",
+      "type": 1,
+      "api": "https://www.jipo.tv/api.php/provide/vod",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "CK资源",
+      "name": "CK资源",
+      "type": 0,
+      "api": "http://www.feifei67.com/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "77韩剧",
+      "name": "77韩剧",
+      "type": 0,
+      "api": "https://www.77hanju.com/api.php/provide/vod/at/xml/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "6U云资源",
+      "name": "6U云资源",
+      "type": 1,
+      "api": "http://zy.ataoju.com/inc/api.php",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "飘花电影",
+      "name": "飘花电影",
+      "type": 0,
+      "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "CK资源",
+      "name": "CK资源",
+      "type": 0,
+      "api": "https://ckzy.me/api.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "天堂资源",
+      "name": "天堂资源",
+      "type": 0,
+      "api": "http://vipmv.cc/api.php/provide/vod/at/xml/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "韩剧资源1",
+      "name": "韩剧资源1",
+      "type": 1,
+      "api": "http://www.hanjuzy.com/inc/apijson_vod.php",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "新浪资源1",
+      "name": "新浪资源1",
+      "type": 1,
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "新浪资源",
+      "name": "新浪资源",
+      "type": 0,
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "1080资源库1",
+      "name": "1080资源库1",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "🦆1080资源库",
+      "name": "🦆1080资源库",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/api_mac10_all.php",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "1080资源库2",
+      "name": "1080资源库2",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "0"
+    },
+    {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    }
   ],
-    "lives": [
+  "lives": [
     {
       "group": "redirect",
       "channels": [
