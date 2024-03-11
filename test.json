@@ -1,5 +1,18 @@
 {
   "spider": "./jar/fan.txt;md5;82a31f7dab4c0eb89a46584f3934d810",
+   "lives": [
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "channels",
+          "urls": [
+            "proxy://do=live&type=txt&ext=https://agit.ai/ccy/v/raw/branch/master/tv/cn.txt"
+          ]
+        }
+      ]
+    }
+  ],
   "sites": [
     {
       "key": "赞赞",
