@@ -1,0 +1,3 @@
+自用资源，请勿使用。<br>
+自用多仓：https://raw.kkgithub.com/iuse63/my/main/m.json<br>
+自用单仓：https://raw.kkgithub.com/iuse63/my/main/my.json<br>
