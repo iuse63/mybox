@@ -7,7 +7,7 @@
         {
           "name": "channels",
           "urls": [
-            "proxy://do=live&type=txt&ext=https://agit.ai/ccy/v/raw/branch/master/tv/cn.txt"
+            "proxy://do=live&type=txt&ext=https://raw.kkgithub.com/iuse63/xiaomi/main/lib/%E7%9B%B4%E6%92%AD%E6%8C%BA%E5%BF%AB.txt"
           ]
         }
       ]
