@@ -1,4 +1,5 @@
 {
+  "wallpaper": "./测试/壁纸.png",
   "spider": "./jar/fan.txt;md5;82a31f7dab4c0eb89a46584f3934d810",
   "sites": [
      {
