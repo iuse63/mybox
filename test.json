@@ -1,18 +1,5 @@
 {
   "spider": "./jar/fan.txt;md5;82a31f7dab4c0eb89a46584f3934d810",
-  // "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "channels",
-          "urls": [
-            "proxy://do=live&type=txt&ext=https://raw.kkgithub.com/iuse63/xiaomi/main/lib/%E7%9B%B4%E6%92%AD%E6%8C%BA%E5%BF%AB.txt"
-          ]
-        }
-      ]
-    }
-  ],
    "lives": [
     {
       "name": "IPv4",
