@@ -17,7 +17,7 @@
     {
       "name": "IPv4",
       "type": 0,
-      "url": "https://raw.kkgithub.com/iuse63/xiaomi/main/lib/%E7%9B%B4%E6%92%AD%E6%8C%BA%E5%BF%AB.txt",
+      "url": "./jar/live.txt",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
