@@ -1,11 +1,11 @@
 {
-  "spider": "./jar/fan.txt;md5;82a31f7dab4c0eb89a46584f3934d810",
+  "spider": "./main/jar/fan.txt;md5;82a31f7dab4c0eb89a46584f3934d810",
   "sites": [
     {
       "key": "赞赞",
       "name": "➕1080P┃切片",
       "type": 3,
-      "jar": "./jar/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "./main/jar/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYsV2",
       "ext": "http://111.230.51.151:2323/api.php/app/",
       "searchable": 1,
@@ -16,7 +16,7 @@
       "key": "蚂蚁",
       "name": "🐜1080P┃蚂蚁",
       "type": 3,
-      "jar": "./jar/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "./main/jar/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYsV2",
       "ext": "http://122.228.84.103:5822/api.php/app/",
       "searchable": 1,
@@ -27,7 +27,7 @@
       "key": "亮亮",
       "name": "💡1080P┃花花",
       "type": 3,
-      "jar": "./jar/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "./main/jar/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYs",
       "ext": "http://vip.hhtv.vip:38801/api.php/app/",
       "searchable": 1,
@@ -42,7 +42,7 @@
       "changeable": 0,
       "quickSearch": 1,
       "playerType": "2",
-      "jar": "./jar/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "./main/jar/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
@@ -63,7 +63,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "2",
-      "jar": "./jar/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "./main/jar/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "ext": {
         "主页url": "https://www.3ayy.com",
         "简介": "module-info-introduction\">&&</p>",
@@ -99,7 +99,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "2",
-      "jar": "./jar/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "./main/jar/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "ext": {
         "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
         "分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺&FREE短剧&FREE少儿",
