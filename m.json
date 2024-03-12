@@ -20,10 +20,10 @@
       "name": "4K线路",
       "url": "https://notabug.org/dongchenys/pt/raw/json/liu.json"
     },
-    {
+       {
       "name": "奇乐蓝光",
-      "url": " https://gitee.com/zhaodehe/qlkj/raw/master/ys.json"
-    }，   
+      "url": "https://gitee.com/zhaodehe/qlkj/raw/master/ys.json"
+    },
    {
       "name": "小米线路",
       "url": "http://xhww.fun:63/小米/DEMO.json"
