@@ -1074,6 +1074,52 @@
       "api":"https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "searchable":1,
       "filterable":0
+    },
+    {
+      "key": "cctv",
+      "name": "📺┃央视┃大全",
+      "type": 3,
+      "api": "csp_CCTV",
+      "searchable": 0,
+      "filterable": 0,
+      "ext": "http://rihou.vip:88/hccx/央视大全.json",
+    "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+    },
+    {
+      "key": "py_cctv_少儿",
+      "name": "📺┃央视┃少儿",
+      "type": 3,
+      "api": "py_cctv_full",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://rihou.vip:88/hccx/py_央视少儿.py",
+    "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+    },
+    {
+      "key": "央视经典",
+      "name": "📺┃央视┃经典",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://rihou.vip:88/hccx/哔哩经典.json",
+    "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+    },
+    {
+        "key":"drpy_js_310直播",
+        "name":"⚽┃310┃直播",
+        "type":3,
+        "api":"http://nxog.eu.org/m/js/nxog.js",
+        "ext":"http://nxog.eu.org/m/js/310.js"
+    },
+    {
+        "key":"drpy_js_88看球",
+        "name":"⚽┃88┃看球",
+        "type":3,
+        "api":"http://nxog.eu.org/m/js/nxog.js",
+        "ext":"http://nxog.eu.org/m/js/88.js"
     }
   ],
   "lives": [
