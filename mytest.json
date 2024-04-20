@@ -13,12 +13,13 @@
     },
     {
       "key": "小猫咪",
-      "name": "猫咪影视",
+      "name": "猫咪列表",
       "type": 1,
       "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
       "searchable": "1",
       "quickSearch": "1",
-      "filterable": "0"
+      "filterable": "0",
+      "categories": ["电影","电视剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","伦理片"]
     },
     {
       "key": "U酷资源",
