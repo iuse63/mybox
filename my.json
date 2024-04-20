@@ -12,6 +12,13 @@
     },
   //20240420新增
     {
+      "key": "drpy_js_豆瓣",
+      "name": "豆瓣搜索2",
+      "type": 3,
+      "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
+    },
+    {
       "key": "小猫咪",
       "name": "猫咪影视",
       "type": 1,
