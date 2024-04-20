@@ -18,6 +18,20 @@
       "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js",
       "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js"
     },
+     {
+        "key":"drpy_js_310直播",
+        "name":"⚽┃310┃直播",
+        "type":3,
+        "api":"http://nxog.eu.org/m/js/nxog.js",
+        "ext":"http://nxog.eu.org/m/js/310.js"
+    },
+    {
+        "key":"drpy_js_88看球",
+        "name":"⚽┃88┃看球",
+        "type":3,
+        "api":"http://nxog.eu.org/m/js/nxog.js",
+        "ext":"http://nxog.eu.org/m/js/88.js"
+    },
     {
       "key": "小猫咪",
       "name": "猫咪影视",
