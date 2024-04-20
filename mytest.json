@@ -13,7 +13,7 @@
     },
     {
       "key": "小猫咪",
-      "name": "猫咪列表",
+      "name": "猫咪影视",
       "type": 1,
       "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/",
       "searchable": "1",
@@ -1122,6 +1122,47 @@
         "type":3,
         "api":"http://nxog.eu.org/m/js/nxog.js",
         "ext":"http://nxog.eu.org/m/js/88.js"
+    },
+    {
+      "key": "厂长",
+      "name": "📔┃厂长┃无广",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.cz233.com/"
+    },
+    {
+      "key": "bp",
+      "name": "❄️┃️白嫖┃影视",
+      "type": 3,
+      "api": "csp_BaiPiao",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.baipiaoys.com:9092/"
+    },
+    {
+    "key":"热播",
+    "name":"💡┃热播┃影视",
+    "type":3,
+    "api":"csp_TTian",
+    "ext":"http://v.rbotv.cn",
+    "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5f17d8fe24bbde9e1bd24189ae3cde21"
+    },
+    {
+    "key":"快看",
+    "name":"💡┃快看┃影视",
+    "type":3,
+    "api":"csp_Kuaikan",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "jar": "http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;5f17d8fe24bbde9e1bd24189ae3cde21"
     }
   ],
   "lives": [
