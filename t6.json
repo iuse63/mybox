@@ -8,7 +8,7 @@
 "searchable":0,
 "quickSearch":0,
 "filterable":0
-},
+}，
 {
 "key":"小猫咪",
 "name":"猫咪影视",
@@ -18,7 +18,7 @@
 "quickSearch":"1",
 "filterable":"0",
 "categories":["电影","电视剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","伦理片"]
-},
+}，
 {
 "key":"U酷资源",
 "name":"U酷资源",
@@ -27,7 +27,7 @@
 "searchable":"1",
 "quickSearch":"1",
 "filterable":"0"
-},
+}，
 {
 "key":"人人影视",
 "name":"人人影视",
@@ -36,7 +36,7 @@
 "searchable":"1",
 "quickSearch":"1",
 "filterable":"0"
-},
+}，
 {
 "key":"速博资源",
 "name":"速博资源",
@@ -45,7 +45,7 @@
 "searchable":"1",
 "quickSearch":"1",
 "filterable":"0"
-},
+}，
 {
 "key":"虎牙资源",
 "name":"虎牙资源",
@@ -54,7 +54,7 @@
 "searchable":"1",
 "quickSearch":"1",
 "filterable":"0"
-},
+}，
 {
 "key":"爱坤资源",
 "name":"爱坤资源",
@@ -318,7 +318,7 @@
 },
 {
 "key":"U酷资源",
-"name":"U酷资源",
+"name":"U酷资源1",
 "type":0,
 "api":"https://api.ukuapi.com/api.php/provide/vod/at/xml",
 "searchable":"1",
@@ -586,7 +586,7 @@
 },
 {
 "key":"csp_WoGG",
-"name":"🎈4KK┃玩偶",
+"name":"🎈4K┃玩偶",
 "type":3,
 "api":"csp_WoGG",
 "searchable":1,
