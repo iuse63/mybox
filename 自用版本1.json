@@ -63,7 +63,7 @@
 {"key":"1080资源库2","name":"1080资源库2","type":1,"api":"https://api.1080zyku.com/inc/apijson.php","searchable":"1","quickSearch":"1","filterable":"0"},
 {"key":"Bili","name":"🅱哔哩┃收费可耻","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./lib/bilibili.json"},
 {"key":"csp_Czsapp","name":"🏭️1080P┃厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"changeable":0,"quickSearch":1,"filterable":1},
-{"key":"csp_WoGG","name":"🎈4K┃玩偶","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
+{"key":"csp_WoGG","name":"🎈4K┃玩偶","type":3,"jar":"./jar/fan.txt","api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt"},
 {"key":"sansan","name":"⭕️1080P┃解析","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"酷看","name":"🦁1080P┃快看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"赞赞","name":"➕1080P┃切片","type":3,"jar":"./jar/c.txt;md5;bb155c3f0133bbce4756ad52003f5968","api":"csp_AppYsV2","ext":"http://111.230.51.151:2323/api.php/app/","searchable":1,"quickSearch":1,"changeable":0},
