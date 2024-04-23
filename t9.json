@@ -20,7 +20,7 @@
 {"key":"🐶闪电资源","name":"🐶闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":"1","quickSearch":"1","filterable":"0"},
 {"key":"🧯百度资源","name":"🧯百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":"1","quickSearch":"1","filterable":"0"},
 {"key":"🤴明帝影视","name":"🤴明帝影视","type":1,"api":"https://ys.md214.cn/api.php/provide/vod/","searchable":"1","quickSearch":"1","filterable":"0"},
-{"key":"🌶U酷资源","name":"🌶U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":"1","quickSearch":"1","filterable":"0"},
+{"key":"🌶U酷资源","name":"🌶U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":"1"，"quickSearch":"1","filterable":"0"},
 {"key":"🌤天空资源","name":"🌤天空资源","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":"1","quickSearch":"1","filterable":"0"},
 {"key":"🌟影图","name":"🌟影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":"1","quickSearch":"1","filterable":"0"},
 {"key":"🌸樱花资源","name":"🌸樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod","searchable":"1","quickSearch":"1","filterable":"0"},
@@ -157,7 +157,7 @@
 //http://nxog.eu.org/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌
 {"key":"横版影院","name":"📹┃短剧1┃短剧","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"],"jar":"https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;9ea1375c4736da2b76f3f1296f6b276b"},
 {"key":"短剧","name":"📹┃短剧┃短剧2","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod","jar":"https://nxog.top/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/jar.php?id=ou;md5;9ea1375c4736da2b76f3f1296f6b276b"},
-{"key":"csp_WoGG","name":"👽┃玩偶┃4K①","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
+//{"key":"csp_WoGG","name":"👽┃玩偶┃4K①","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 {"key":"YiSo","name":"😹┃易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"PanSou","name":"🦊┃盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"UpYun","name":"😻┃Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
