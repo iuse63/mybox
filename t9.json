@@ -20,7 +20,6 @@
 {"key":"🐶闪电资源","name":"🐶闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":"1","quickSearch":"1","filterable":"0"},
 {"key":"🧯百度资源","name":"🧯百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":"1","quickSearch":"1","filterable":"0"},
 {"key":"🤴明帝影视","name":"🤴明帝影视","type":1,"api":"https://ys.md214.cn/api.php/provide/vod/","searchable":"1","quickSearch":"1","filterable":"0"},
-{"key":"🌶U酷资源","name":"🌶U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":"1"，"quickSearch":"1","filterable":"0"},
 {"key":"🌤天空资源","name":"🌤天空资源","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":"1","quickSearch":"1","filterable":"0"},
 {"key":"🌟影图","name":"🌟影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":"1","quickSearch":"1","filterable":"0"},
 {"key":"🌸樱花资源","name":"🌸樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod","searchable":"1","quickSearch":"1","filterable":"0"},
