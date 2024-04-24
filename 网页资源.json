@@ -14,7 +14,6 @@
 //搜索资源
 {"key":"豆豆","name":"豆瓣搜索","type":3,"jar":"./jar/fan1.txt;md5;c84c36278bd8bc95a63449a128074be0","api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 //网址点播源
-{"key":"网页资源","name":"纯网页资源","type":1},
 {"key":"lzzy","name":"量子资源1","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"filterable":0,"categories":["国产动漫","日韩动漫","大陆剧","欧美剧","韩剧","日剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"量子资源VOD","name":"量子资源VOD","type":1,"api":"https://lzizy1.com/api.php/provide/vod/","playurl":"json:http://jx.84jia.com/m3u8ts.php?url=","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","伦理片","喜剧片"]},
 {"key":"量子资源2","name":"量子资源2","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":"1","quickSearch":"1","filterable":"0"},
