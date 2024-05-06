@@ -161,7 +161,7 @@ http://我不是.摸鱼儿.top
 
 
 //应用下载
-{"key":"应用下载","name":"软件下载","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"http://www.xzweb.top/祥子影视/main/应用商店.json","jar":"http://www.xzweb.top/祥子影视/main/alib/jar/fm商店.jar"}
+{"key":"应用下载","name":"软件下载","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/应用商店.json","jar":"./jar/fm商店.jar"}
 ],
 //直播模块
 "lives":[
