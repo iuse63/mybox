@@ -382,7 +382,7 @@
 {"key":"山海采集","name":"🌐山海采集","type":1,"api":"https://www.shanhaizy.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","港台剧","韩国剧","日韩剧","动画"]},
 {"key":"仓库采集","name":"🌐仓库采集","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","港台剧","日韩剧","伦理片"]},
 {"key":"魔都动漫","name":"🌐魔都动漫","type":1,"api":"https://www.moduzy.cc/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["国产动漫","日韩动漫","港台动漫","欧美动漫","动漫电影","里番动漫"]},
-{"key":"熊掌资源","name":"🌐熊掌采集","type":1,"api":"https://xzcjz.com/api.php/provide/vod",searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
+{"key":"熊掌资源","name":"🌐熊掌采集","type":1,"api":"https://xzcjz.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
 {"key":"极速资源","name":"🌐极速采集🚫","type":1,"api":"https://jszyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","中国动漫","日本动漫","欧美动漫","伦理片"]},
 
 
@@ -408,26 +408,26 @@
 {"key":"️盘Se弹幕圥忈","name":"️盘Se弹幕♻️","type":3,"api":"csp_PanSearch","jar":"./jar/dongchenok.jar","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","danmu":true},"timeout":15},
 {"key":"️Up搜弹幕圥忈","name":"️Up搜弹幕♻️","type":3,"api":"csp_Upys","jar":"./jar/dongchenok.jar","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","danmu":true},"timeout":15},
 {"key":"盘搜弹幕️圥忈","name":"盘搜弹幕️","type":3,"api":"csp_PanSou","jar":"./jar/dongchenok.jar","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","danmu":true},"timeout":15},
-{"key":"云盘搜索LEO","name":"云盘搜索┃👊","type":3,"jar":"./jar/dokiss.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/yps.json"},
-{"key":"七夜搜索LEO","name":"七夜搜索┃👊","type":3,"jar":"./jar/dokiss.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/DOVX.json"},
+{"key":"云盘搜索LEO","name":"云盘搜索👊","type":3,"jar":"./jar/dokiss.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/yps.json"},
+{"key":"七夜搜索LEO","name":"七夜搜索👊","type":3,"jar":"./jar/dokiss.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/DOVX.json"},
 {"key":"Up云搜LEO","name":"Up云搜┃4K👊","type":3,"jar":"./jar/dokiss.jar","api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 {"key":"盘搜LEO","name":"盘搜┃4K👊","type":3,"jar":"./jar/dokiss.jar","api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 {"key":"易搜LEO","name":"易搜┃4K👊","type":3,"jar":"./jar/dokiss.jar","api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
-{"key":"夸克盘搜弹幕lk","name":"夸克｜盘搜🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
-{"key":"夸克影搜弹幕lk","name":"夸克｜影搜🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_Yingso","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
-{"key":"夸克趣盘搜弹幕lk","name":"夸克｜趣盘搜🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_QuPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
-{"key":"夸克爱盘搜弹幕lk","name":"夸克｜爱盘搜🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_AiPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
-{"key":"云盘搜索lk","name":"云盘｜搜索🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/云盘搜索.json"},
-{"key":"影搜lk","name":"云盘｜影搜🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/影搜.json"},
-{"key":"云搜lk","name":"云盘｜云搜🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
-{"key":"盘搜lk","name":"云盘｜盘搜🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
-{"key":"易搜","name":"云盘｜易搜🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
-{"key":"搜索弹幕lk","name":"弹幕｜搜索🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
-{"key":"云云弹幕lk","name":"弹幕｜云云🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_Upys","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
-{"key":"云搜弹幕lk","name":"弹幕｜云搜🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_UpYun","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
-{"key":"盘搜弹幕lk","name":"弹幕｜盘搜🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
-{"key":"易搜弹幕lk","name":"弹幕｜易搜🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true,"cookie":"satoken=5f91a828-2198-4630-ac41-da5a217c01d7"},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
-{"key":"云盘弹幕lk","name":"弹幕｜云盘🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+{"key":"盘搜弹幕夸克lk","name":"盘搜夸克🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+{"key":"影搜弹幕夸克lk","name":"影搜夸克🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_Yingso","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+{"key":"趣盘搜弹幕夸克lk","name":"趣盘夸克🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_QuPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+{"key":"爱盘搜弹幕夸克lk","name":"爱盘夸克🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_AiPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+{"key":"云盘搜索lk","name":"搜索云盘🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/云盘搜索.json"},
+{"key":"影搜lk","name":"影搜云盘🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/影搜.json"},
+{"key":"云搜lk","name":"云搜云盘🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+{"key":"盘搜lk","name":"盘搜云盘🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+{"key":"易搜","name":"易搜云盘🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/TVBox/token.txt"},
+{"key":"搜索弹幕lk","name":"搜索弹幕🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+{"key":"云云弹幕lk","name":"云云弹幕🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_Upys","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+{"key":"云搜弹幕lk","name":"云搜弹幕🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_UpYun","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+{"key":"盘搜弹幕lk","name":"盘搜弹幕🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+{"key":"易搜弹幕lk","name":"易搜弹幕🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true,"cookie":"satoken=5f91a828-2198-4630-ac41-da5a217c01d7"},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
+{"key":"云盘弹幕lk","name":"云盘弹幕🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},"jar":"./danmu.jar;md5;235cfc9a1a21ce386bac0861100492c9"},
 
 
 //电视戏曲，学习教育
@@ -459,7 +459,7 @@
 {"key":"儿童硬笔","name":"儿童｜硬笔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/儿童硬笔.json"},
 {"key":"儿童编程","name":"儿童｜编程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/儿童编程.json"},
 {"key":"儿童武术","name":"儿童｜武术","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/儿童武术.json"},
-
+{"key":"直播转点播","name":"直播┃点播📺","type":3,"api":"./js/live2cms.js","ext":"./json/live2mv_data.json","searchable":2,"quickSearch":0,"filterable":0},
 
 
 //网盘配置等
@@ -519,9 +519,9 @@
 {"name":"西瓜嗅探1","type":0,"url":"https://t1.qlplayer.cyou/player/analysis.php?v=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Dart/3.0(dart:io)"}}},
 {"name":"西瓜嗅探2","type":0,"url":"https://t1.qlplayer.cyou/player/?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Dart/3.0(dart:io)"}}},
 {"name":"高清嗅探","type":0,"url":"https://jx.xmflv.com?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Dart/3.0(dart:io)"}}},
-{"name": "🐉️嗅探0","type": 3,"url": "Web"},
-{"name":"🐉并发2","type":2,"url":"Parallel"},
-{"name": "🐉欧歌vip","type": 1,"url": "http://106.54.39.252/公众号欧歌APP/jx/?ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp&url="},
+{"name": "嗅探0","type": 3,"url": "Web"},
+{"name":"并发2","type":2,"url":"Parallel"},
+{"name": "欧歌vip","type": 1,"url": "http://106.54.39.252/公众号欧歌APP/jx/?ou=%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8Capp&url="},
 {"name":"线路1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
 {"name":"线路2","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
 {"name":"线路3","type":0,"url":"https://jx.yparse.com/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
@@ -531,7 +531,7 @@
 {"name":"线路7","type":0,"url":"https://www.8090g.cn/?url="},
 {"name":"线路8","type":0,"url":"https://jx.yangtu.top?url="},
 {"name":"线路9","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"线路10","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},{"name": "🐉聚合1", "type": 3,"url": "Demo"},
+{"name":"线路10","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},{"name": "聚合1", "type": 3,"url": "Demo"},
 {"name":"夜幕嗅探","type":0,"url":"https://www.yemu.xyz/?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Dart/3.0(dart:io)"}}}
 ],
 //DNS模块
