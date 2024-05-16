@@ -459,7 +459,8 @@
 {"key":"儿童硬笔","name":"儿童｜硬笔","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/儿童硬笔.json"},
 {"key":"儿童编程","name":"儿童｜编程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/儿童编程.json"},
 {"key":"儿童武术","name":"儿童｜武术","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./json/儿童武术.json"},
-{"key":"直播转点播","name":"直播┃点播📺","type":3,"api":"./js/live2cms.js","ext":"./json/live2mv_data.json","searchable":2,"quickSearch":0,"filterable":0},
+{"key":"直播转点播🚫","name":"直播┃点播🚫","type":3,"api":"./js/live2cms.js","ext":"./json/live2mv_data.json","searchable":2,"quickSearch":0,"filterable":0},
+{"key":"直播转点播","name":"直播┃点播📺","type":3,"api":"./js/live2cms.js","ext":"./json/live2mv_yes.json","searchable":2,"quickSearch":0,"filterable":0},
 
 
 //网盘配置等
