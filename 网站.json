@@ -6,11 +6,11 @@
 //爬虫jar
 "spider":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/mybox/main/jar/sen63.jar",
 /*
-//必备地址：https://mirror.ghproxy.com/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json
-//摸鱼地址：http://我不是.摸鱼儿.top
-//圥忈地址：https://gitlab.com/dokiss1/tvbox/-/raw/master/Yu.json
-/LEO地址：https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/LEO.json
-//祥子地址：http://xzweb.top/祥子影视
+//必备地址:https://mirror.ghproxy.com/https://raw.githubusercontent.com/shichuanenhui/TvBox/main/fty.json
+//摸鱼地址:http://我不是.摸鱼儿.top
+//圥忈地址:https://gitlab.com/dokiss1/tvbox/-/raw/master/Yu.json
+/LEO地址:https://gitlab.com/leo3975408/tvbox-ouge/-/raw/master/LEO.json
+//祥子地址:http://xzweb.top/祥子影视
 //乐看地址https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
 */
 "sites":[
@@ -67,7 +67,6 @@
 {"key":"熊掌资源","name":"🌐熊掌采集","type":1,"api":"https://xzcjz.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
 {"key":"极速资源","name":"🌐极速采集🚫","type":1,"api":"https://jszyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","中国动漫","日本动漫","欧美动漫","伦理片"]},
 
-
 {"key":"csp_xml_ck","name":"🎀CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["伦理片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","记录片","犯罪片","奇幻片","电视剧","国产剧","欧美剧","日韩剧","港台剧"]},
 {"key":"t4_公共","name":"📡公共(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=阿里token&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"t4_搜片","name":"📡搜片(T4)","type": 4,"api": "https://t4.secan.icu/vod?sites=all&timeout=7","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -92,14 +91,17 @@
 {"key":"csp_xml_百度资源","name":"🐝百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_飞速采集","name":"🐝飞速采集","type":1,"api":"https://m3u8.feisuzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_飞速资源","name":"🐝飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-
 {"key":"csp_xml_无尽资源","name":"🐝无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_U酷资源","name":"🐝U酷 资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_天空资源","name":"🐝天空资源m3u8","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_樱花采集","name":"🐝樱花采集","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_樱花资源","name":"🐝樱花资源","type":1,"api":"https://yhzy.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_卧龙资源","name":"🐝卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_鱼乐资源","name":"🐝鱼乐资源","type":1,"api":"https://www.ylzy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}
+{"key":"csp_xml_鱼乐资源","name":"🐝鱼乐资源","type":1,"api":"https://www.ylzy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"影世界","name":"影世界(优)","type":1,"api":"https://video.yingworld.vip/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫"]},
+
+
+
 {"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
 {"key":"艾克资源","name":"艾克资源(官)","type":1,"api":"https://ikcss.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"devclh资源","name":"devclh资源(官)","type":1,"api":"http://zl.devclh.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -143,8 +145,6 @@
 {"key":"鸭奈飞","name":"鸭奈飞(优)","type":1,"api":"http://newtv.yanaifei.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"皮荼熊TV","name":"皮荼熊TV(优)","type":1,"api":"https://www.psinu.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
-
-{"key":"影世界","name":"影世界(优)","type":1,"api":"https://video.yingworld.vip/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["电影","连续剧","综艺","动漫"]},
 
 
 {"key":"饭后电影","name":"饭后电影(优)","type":1,"api":"http://yinliub.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -265,7 +265,6 @@
 {"key":"贵宾影院","name":"贵宾影院(聚)","type":1,"api":"http://vipdytv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"比邻影院","name":"比邻影院(聚)","type":1,"api":"http://0hzy.cn:9990/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"飘花电影","name":"飘花电影(聚)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-
 
 
 
