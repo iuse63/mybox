@@ -15,16 +15,16 @@
 */
 "sites":[
 //搜索资源
-{"key":"豆豆","name":"豆瓣搜索","type":3,"jar":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/mybox/main/jar/sen63.jar","api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"哔哩哔哩","name":"哔哩搜索","type":3,"jar":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/mybox/main/jar/sen63.jar","api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./json/bilibili.json"},
+{"key":"豆豆","name":"豆瓣┃搜索","type":3,"jar":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/mybox/main/jar/sen63.jar","api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"哔哩哔哩","name":"哔哩┃搜索","type":3,"jar":"https://ghcy.eu.org/https://raw.githubusercontent.com/iuse63/mybox/main/jar/sen63.jar","api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./json/bilibili.json"},
 
 //玩偶网盘
 {"key":"玩偶网盘必备","name":"玩偶┃网盘🍎","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://api.wogg.xyz/","danMu":"弹"},"jar":"https://gitee.com/iuse63/mybox/raw/main/jar/必备fan_240417.txt"},
 {"key":"玩偶网盘圥忈","name":"玩偶┃网盘♻️","type":3,"api":"csp_Wogg","jar":"./jar/dongchenok.jar","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","site":"https://wogg.xyz","danmu":true},"timeout":25},
-{"key":"土豆网盘lk","name":"云盘｜土豆🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/土豆网盘.json"},
-{"key":"土豆摸鱼","name":"土豆🚣🏼","type":3,"api":"csp_Wobg","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"https://tudou.lvdoui.top","danmu":true},"timeout":25},
-{"key":"土豆圥忈","name":"土豆♻️","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tudou.json"},
-{"key":"土豆4K圥忈","name":"土豆4K♻️","type":3,"api":"csp_Wobg","jar":"./jar/dongchenok.jar","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","site":"https://tudou.lvdoui.top","danmu":true},"timeout":25},
+{"key":"土豆网盘lk","name":"土豆┃网盘🎡","type":3,"jar":"./jar/乐看.jar","api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/土豆网盘.json"},
+{"key":"土豆摸鱼","name":"土豆┃网盘🚣🏼","type":3,"api":"csp_Wobg","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"https://tudou.lvdoui.top","danmu":true},"timeout":25},
+{"key":"土豆圥忈","name":"土豆┃网盘♻️","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/tudou.json"},
+{"key":"土豆4K圥忈","name":"土豆┃4K♻️","type":3,"api":"csp_Wobg","jar":"./jar/dongchenok.jar","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","site":"https://tudou.lvdoui.top","danmu":true},"timeout":25},
 
 /*js*/
 {"key":"优酷视频","name":"优酷┃影视","type":3,"api":"./js/nxog.js","ext":"./js/优酷视频.js"},
