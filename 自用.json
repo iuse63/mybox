@@ -532,8 +532,8 @@
 //网盘配置等
 {"key":"配置中心ok","name":"⚙︎配置中心","type":3,"api":"csp_Config","jar":"./jar/dongchenok.jar","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.43}},
 //应用下载
-{"key":"应用下载","name":"🔽软件下载","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/应用商店.json","jar":"./jar/fm商店.jar"}
 {"key":"应用商店","name":"🔽应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://ghcy.eu.org/https://raw.githubusercontent.com/aa123jg/tvbox/main/wyyk/json/yysd.json","jar":"./jar/应用市场.jar"},
+{"key":"应用下载","name":"🔽软件下载","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/应用商店.json","jar":"./jar/fm商店.jar"}
 
 ],
 //直播模块
